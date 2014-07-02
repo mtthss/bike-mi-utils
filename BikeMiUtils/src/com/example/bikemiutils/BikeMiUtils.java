@@ -6,6 +6,8 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+
+
 import model.Stallo;
 
 import org.apache.http.client.ClientProtocolException;
